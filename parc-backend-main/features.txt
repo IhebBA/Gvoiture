@@ -1,0 +1,12 @@
+- Ability to fitler data between different dates(done)
+- Track how much money is being spent on repairing cars between two different dates.
+- Upload and download invoices.
+- Generate PDF/Excel from charts.
+- Display total distance and total gas consumed between two different dates below the chart.
+- Display the list of maintenance happend between two different dates below the chart.
+
+
+Good to have:
+- Change the date input format.
+- Populate the date input with inital date(from the beginning of month to the current date).
+- Prevent the user from selecting an end date earlier than the start date.
